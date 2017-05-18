@@ -11,6 +11,7 @@ header {
 	background-color: #fff;
 	border-color: #ccc;
 	height: 50px;
+	margin-bottom: 25px;
 }
 
 h1 {
@@ -22,13 +23,20 @@ h1 {
 h2 {
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	color: #4aaaa5;
+	margin-left: 75px;
 }
 
-.header-box {
+.name-box {
 	height: 50px;
 	width: 150px;
 	background-color: #4aaaa5;
 	text-align: center;
 	line-height: 50px;
 	margin-left: 75px;
+}
+
+.main-content {
+	width: 650px;
+	margin-left: 75px;
+	background: #fff;
 }

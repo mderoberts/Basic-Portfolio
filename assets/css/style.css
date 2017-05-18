@@ -1,4 +1,23 @@
+header {
+	background-color: #fff;
+	border-color: #ccc;
+
+}
+
 body {
 	background-image: url("../images/old-moon-background.jpg");
 	background-color: #eee;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-color: #777;
+}
+
+h1 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	/* Change colore to #fff */
+	color: #eee;
+}
+
+h2 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: #4aaaa5;
 }

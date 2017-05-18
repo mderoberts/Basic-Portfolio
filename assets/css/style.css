@@ -34,6 +34,22 @@ h3 {
 	font-size: 1.17em;
 }
 
+footer {
+	position: fixed;
+	bottom: 0;
+	background-color: #666;
+	border-top-style: solid;
+	border-top-width: 5px;
+	border-color: #4aaaa5;
+	height: 65px;
+	text-align: center;
+	line-height: 65px;
+	padding-left: 30px;
+	font-color: #666;
+	width: 100%;
+	
+}
+
 .header-box {
 	position: relative;
 	width: 960px;
@@ -71,17 +87,6 @@ h3 {
 	background: #fff;
 	line-height: 200%;
 	float: left;
-}
-
-.footer {
-	position: fixed;
-	bottom: 0;
-	background: #666;
-	border-top-style: solid;
-	border-top-width: 5px;
-	border-color: #4aaaa5;
-	height: 65px;
-
 }
 
 #profile-photo {

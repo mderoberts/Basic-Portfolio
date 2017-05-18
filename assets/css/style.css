@@ -1,14 +1,16 @@
-header {
-	background-color: #fff;
-	border-color: #ccc;
-
-}
-
 body {
 	background-image: url("../images/old-moon-background.jpg");
 	background-color: #eee;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	font-color: #777;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #fff;
+	border-color: #ccc;
+	height: 50px;
 }
 
 h1 {
@@ -20,4 +22,13 @@ h1 {
 h2 {
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	color: #4aaaa5;
+}
+
+.header-box {
+	height: 50px;
+	width: 150px;
+	background-color: #4aaaa5;
+	text-align: center;
+	line-height: 50px;
+	margin-left: 75px;
 }

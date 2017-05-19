@@ -35,18 +35,17 @@ h3 {
 }
 
 footer {
-	position: fixed;
+	position: absolute;
 	bottom: 0;
+	left: 0;
 	background-color: #666;
 	border-top-style: solid;
 	border-top-width: 5px;
 	border-color: #4aaaa5;
 	height: 65px;
-	text-align: center;
-	line-height: 65px;
-	padding-left: 30px;
-	font-color: #666;
 	width: 100%;
+	clear: both;
+	/*float: clear;*/
 	
 }
 
@@ -87,6 +86,12 @@ footer {
 	background: #fff;
 	line-height: 200%;
 	float: left;
+}
+
+.footer-container {
+	text-align: center;
+	line-height: 65px;
+	color: #fff;
 }
 
 #profile-photo {

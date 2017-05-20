@@ -69,15 +69,17 @@ footer {
 	text-align: center;
 	line-height: 65px;
 	margin-left: 30px;
-
 }
 
 .nav-box {
 	display: inline-block;
-	padding: 32.5px;
+	/*padding: 32.5px;*/
+	margin-left: 0px;
 	height: 65px;
 	margin-bottom: 25px;
 	float: right;
+	text-align: center;
+	line-height: 65px;
 }
 
 .link {
@@ -114,6 +116,7 @@ footer {
 	text-align: center;
 	line-height: 65px;
 	color: #fff;
+	margin-left: 30px;
 }
 
 #profile-photo {

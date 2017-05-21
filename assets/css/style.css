@@ -51,7 +51,6 @@ footer {
 	height: 65px;
 	width: 100%;
 	clear: both;
-	/*float: clear;*/
 	
 }
 
@@ -73,13 +72,16 @@ footer {
 
 .nav-box {
 	display: inline-block;
-	/*padding: 32.5px;*/
-	margin-left: 0px;
 	height: 65px;
 	margin-bottom: 25px;
 	float: right;
 	text-align: center;
 	line-height: 65px;
+}
+
+.nav-links {
+	margin-left: 60px;
+	color: #A9A9A9;
 }
 
 .link {

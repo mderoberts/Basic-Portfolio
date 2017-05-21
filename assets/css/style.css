@@ -2,7 +2,7 @@ body {
 	background-image: url("../images/old-moon-background.jpg");
 	background-color: #eee;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-	font-color: #777;
+	color: #777;
 	margin: 0;
 	padding: 0;
 }
@@ -79,16 +79,16 @@ footer {
 	line-height: 65px;
 }
 
-.nav-links {
+/*.nav-links {
 	margin-left: 60px;
 	color: #A9A9A9;
-}
+}*/
 
 .link {
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-	font-color: #777;
+	color: #777;
 	text-decoration: none;
-	margin-right: 20px;
+	margin-right: 40px;
 }
 
 .container {

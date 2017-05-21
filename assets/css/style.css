@@ -113,6 +113,9 @@ footer {
 	align-items: center;
 	max-width: 50px;
 	max-height: 50px;
+	text-decoration: none;
+	/*border: 0;*/
+	margin: 30px 0 30px 5px;
 }
 
 .footer-container {

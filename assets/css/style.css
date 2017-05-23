@@ -83,7 +83,7 @@ footer {
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	color: #777;
 	text-decoration: none;
-	margin-right: 25px;
+	margin: 0 15px;
 }
 
 .container {
@@ -112,12 +112,12 @@ footer {
 }
 
 .sidebar {
-	width: 270px;
+	width: 240px;
 	margin-left: 20px;
 	text-align: center;
 	background: #fff;
 	float: left;
-	padding-top: 20px;
+	padding: 20px 15px 0px 15px;
 	border: 1px solid #ccc;
 }
 
